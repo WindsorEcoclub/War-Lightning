@@ -1,0 +1,6 @@
+{
+  "name": "ThunderDrive — Open-Tree Military Vehicle Proving Grounds",
+  "description": "In-browser 3D military vehicle hangar, armor X-ray inspector, and proving grounds test driver with every tank, jet, helicopter, and warship unlocked across all nations and ranks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
